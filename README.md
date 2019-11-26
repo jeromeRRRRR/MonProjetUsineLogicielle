@@ -1,1 +1,4 @@
 "# MonProjetUsineLogicielle" 
+## Agile
+## GIT
+## Maven
